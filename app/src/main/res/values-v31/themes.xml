@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="Theme.JustBreath" parent="android:Theme.Material.Light.NoActionBar">
+
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#00ffffff</item>
+        <item name="android:windowSplashScreenBackground">#F0F7FE</item>
+        <item name="android:windowSplashScreenAnimationDuration">500</item>
+
+    </style>
+</resources>

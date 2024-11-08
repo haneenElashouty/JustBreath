@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Just Breath</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_mindful_breathing">MindfulBreathing</string>
+    <string name="title_activity_fsebreath">FSEBreath</string>
+    <string name="title_activity_box_breathing">BoxBreathing</string>
+    <string name="title_activity_main_list">MainList</string>
+    <string name="title_activity_fav_mindful_breathing">FavMindfulBreathing</string>
+    <string name="title_activity_fav_fsebreath">FavFSEBreath</string>
+    <string name="title_activity_fav_box_breathing">FavBoxBreathing</string>
+</resources>
